@@ -26,4 +26,5 @@ public class AppConfig {
         defaultMessage.setDefaultMessage("Default message");
         return defaultMessage;
     }
+
 }
